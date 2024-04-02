@@ -1,0 +1,1 @@
+{"name":"Local: Minimumnumbercoinchange","url":"e:\\algorithm\\Minimumnumbercoinchange.cpp","tests":[{"id":1711487793474,"input":"4\n1 2 5 6\n13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithm\\Minimumnumbercoinchange.cpp","group":"local","local":true}
